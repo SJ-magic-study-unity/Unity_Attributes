@@ -1,0 +1,8 @@
+/************************************************************
+attributes of Unity
+************************************************************/
+[RequireComponent(typeof (MagicalDevice))]
+	
+[HideInInspector]
+
+[SerializeField]
